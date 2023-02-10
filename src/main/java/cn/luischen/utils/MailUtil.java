@@ -17,9 +17,9 @@ import static cn.luischen.constant.WebConst.SYS_MAIL;
 
 @Slf4j
 public class MailUtil {
-    private static final String pwd = "4BBFasNenaqXqvhi";
+    private static final String pwd = "fgdfgdfgth";
 
-    public static String userName = "dengch@izkml.com";
+    public static String userName = "ee";
 
     public static String projectName="“我的博客”";
 
